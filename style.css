@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+button{
+    background-color: orange;
+    position: absolute;
+}
+#columna{
+    height: 150%;
+    width: 15%;  
+    position: absolute;
+    background-color: orange;
+    margin-top: 10%;
+}
+#fila{
+    height: 20%;
+    width: 100%;  
+    position: absolute;
+    background-color: orange;
+    text-align:center;
+    font-weight: bold;
+}  
+.op{
+    background-color: orange;
+    position:relative;
+    margin-top: 10%;
+    border: solid white;
+    height: 80px;
+    width:200px ;
+    background: linear-gradient(orange,orange,white);
+    box-shadow: 5px 5px 5px;
+}
+#botones{
+    margin-top: 10%;
+    position:absolute;
+}
+#payaso{
+    position: absolute;
+    margin-inline: 20%;
+    margin-top: 15%;
+    width: 100px;
+    height: 100px;
+}
+#marron{
+    position: absolute;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin-top: 15%;
+    margin-inline: 60%;
+}
+img{
+    border: solid 1px black;
+}
+#buscar{
+    position: absolute;
+}
+#pag{
+position: relative;
+font-size: 20px;
+color: rgb(255, 42, 42);
+}
+#recuadro{
+    position: relative;
+    width: 200px;
+    height: 40px;
+    border: solid black 1px;
+}
+#buscador{
+    position: relative;
+}
